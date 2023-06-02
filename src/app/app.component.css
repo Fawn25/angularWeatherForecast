@@ -1,0 +1,19 @@
+
+
+
+
+.betterFont{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.center{
+  text-align: center;
+  align-content: center;
+  vertical-align: central;
+  -ms-flex-align: center;
+  margin: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
